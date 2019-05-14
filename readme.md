@@ -35,7 +35,9 @@ Once the model is created, use the following steps to create word clusters and v
 
 An example of the output files can be found in folder "plot word2vec example". Here is an example of the final plot.
 
-<img src="https://github.com/Adnandev123/BengaliWordClusterUsing/blob/master/word2vecclusterplot-master/word2vecclusterplot-master/word2vec%20examples/plot%20word2vec%20example/plot-cluster.0.jpg" alt="My cool logo"/  width="350">
+<p align="center">
+          <img src="https://github.com/Adnandev123/BengaliWordClusterUsing/blob/master/word2vecclusterplot-master/word2vecclusterplot-master/word2vec%20examples/plot%20word2vec%20example/plot-cluster.0.jpg" alt="My cool logo"/  width="350">
+</p>
 
 
 
