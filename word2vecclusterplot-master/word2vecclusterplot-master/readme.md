@@ -3,7 +3,7 @@ Bengali word clusters using word2vec : creation and visualization
 
 This is pipeline module for cerating bengali word clusters. Word clusters can be a very useful feature when it comes to Natular Language processing.It can be used as feature for several NLP tasks, for example, document classification, named entity recognition etc. It use word2vec to generate embedding models, Rtsne algorithm to reduce the dimentions, K-means to create and visualize clusters.
 
-This project use Python to generate word2vec model, R to create and visualize word clusters and JAVA for preprocessing and labeling.
+This project uses Python to generate word2vec model, R to create and visualize word clusters and JAVA for preprocessing and labeling.
 
 ### How to use
 First, create word2vec model using word2vec.py
